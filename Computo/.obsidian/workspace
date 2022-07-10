@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "1209c3b96c0c6015",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e75afda533dcee0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Conceptos/Programacion/Untitled.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0604463b8e78dc7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "130a914849c973dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "721163d4c6c27777",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e57fa67145a95385",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c49ed30ed42b7cbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b353d22ac1ff1d90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24e7fc79f01c6ef0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Conceptos/Programacion/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6e75afda533dcee0",
+  "lastOpenFiles": [
+    "Conceptos/Programacion/Untitled.md",
+    "Conceptos/Infraestructura/Contenedores/Kubernetes.md",
+    "Conceptos/Programacion/Java.md",
+    "Conceptos/Programacion/Orientado a objetos.md",
+    "Conceptos/Programacion/Principios, fundamentos y axiomas.md"
+  ]
+}
