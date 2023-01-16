@@ -23,3 +23,6 @@ Existen diferentes tipos de firma electronica.
 	- Detectar alteraciones al contenido del mensaje
 - ***Firma digital***:  Es un tipo de firma que ademas de cumplir con los requisitos de una firma electronica, necesita que el documento se firme con un certificado digital, exclusivo del firmante. Se trata de un tipo de firma electronica avanzada.
 
+#### Minificacion
+Tecnica de eliminacion de espacios en blanco, saltos de linea, tabulaciones, etc; en un codigo fuente sin alterar la funcionalidad del codigo.
+
