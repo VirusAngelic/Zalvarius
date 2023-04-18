@@ -1,4 +1,9 @@
+Una funcion es un especifico bloque de codigo el cual tiene definida una tarea especifica a realizar dentro del flujo del programa.
 
+Las caracteristicas de este paradigma son:
+- Los datos son inmutables: Los datos que contienen las funciones son inmutables.
+- Mantenibilidad: La observabilidad es mas facil de mantener para el comportamiento que provoca una funcion. Es decir, no importa como funcione internamente una funcion si al final su comportamiento o el retorno de esta son iguales. Permitiendo que el codigo donde se incluyen sea mas facil de mantener.
+- Modularidad: Ayuda a romper los monolitos que definene el flujo de ejecucion de un software creando modulos los cuales pueden ser alterados y probados individualmente sin involucrarse con el resto del codigo.
 
 ### Funciones de primer orden
 Un lenguaje de programacion se dice tiene funciones de primer orden si sus funciones son tratadas como cualquier otra variable. Por lo tanto, pueden ser asignadas a cualquier otra variable o pasada como argumento o puede ser retornada por otra funcion. Las propiedades son:
@@ -92,11 +97,11 @@ morningRoutines.forEach(routine => routine('John'))
 ### Funciones de orden alto
 Una funcion que recibe otra funcion como argumento o que retorna una nueva funcion o ambas es llamada de orden alto.
 
-| Funciones de primer orden                                                                       | Funciones de orden alto                                                     |
-| ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Funciones de primer orden                                                                        | Funciones de orden alto                                                      |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
 | Son tratadas como una variable que puede ser reasignada a otra variable o pasada como argumento. | Reciben otra funcion como argumento o/y retorna una funcion de primer orden. |
-| El concepto solo es aplicado en programacion.                                                    | Puede ser aplicado el concepto en otros campos fuera de la programacion.     |
 | Su prescencia implica la prescencia de las funciones de orden alto.                              | No implica su prescencia la prescencia de funciones de primer orden.         |
+| Son usadas como argumento de otras funciones unicamente.                                         | Son usadas como argumento de otras funciones y/o pueden retornar otras funciones como resultado.                                                                             |
 
 
 ### Closures
