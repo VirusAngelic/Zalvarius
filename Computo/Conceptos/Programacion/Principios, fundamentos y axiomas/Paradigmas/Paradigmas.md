@@ -13,7 +13,7 @@ El paradigma imperativo se refiere al mismo concepto que el paradigma estructura
 Se forma la solucion por lo que se deberia hacer. Sus caracteristicas son:
 - Formar el flujo de control implicitamente
 - No produce reacciones colaterales
->Es como ordenar una pizza  sin ser consciente de todo lo que tuvo que suceder para crear la pizza
+>Es como ordenar una pizza  sin ser consciente de todo lo que tuvo que suceder para crear la pizza. Enfocarse en el resultado del proceso, no en el proceso per se
 
 | Caracteristica                  | Acercamiento imperativo                                                        | Acercamiento funcional                                           | Acercamiento orientado a objetos                                                                |
 | ------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
