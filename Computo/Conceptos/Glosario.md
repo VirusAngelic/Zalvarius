@@ -22,3 +22,9 @@ Los datos se almacenan jerarquicamente (sistema **file-level**/**file-based**). 
 ##### **Routing**
 Una solucion para el cambio de interfaces de usuario dinamicamente a peticion del usuario o flujo de algun aplicativo sin hacer una peticion de recursos. Por ejemplo: El **routing** de una pagina web puede evitar que un explorador vuelva a hacer un request de una pagina diferente al servidor que se este esperando acceder mediante la renderizacion de la nueva pagina mostrada  y la eliminacion de la anterior.
 
+##### Web Service
+Es un sistema de software que esta diseñado para ser interoperable maquina a maquina sobre una red.
+Desglosando las 3 características fundamentales:
+- Diseñado para la interacción entre maquina a maquina (aplicación a aplicación): Permite la interaccion entre diferentes sistemas de software
+- Debería permitir la interoperabilidad. Sin depender de la plataforma: No importa el lenguaje sobre el que este programado o de que manera, si su diseño fue realizado pensando en su consumo.
+- Debería permitir la comunicación vía red

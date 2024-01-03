@@ -33,7 +33,7 @@ public Cars(){
 ```
 
 
-En una instanciacion de alguna clase (creacion de objeto) se puede instanciar al constructor de una clase padre o aquella a la que se haga referencia
+En una instanciacion de alguna clase (creacion de objeto) se puede instanciar al constructor de una clase padre o aquella a la que se haga referencia[[Fundamentos | los fundamentos]]
 
 
 
